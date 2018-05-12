@@ -1,0 +1,29 @@
+_repo: The-Man-Wolf-and-Other-Tales_15745
+_version: 0.1.0
+alternative_title: Hugues-le-Loup. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: Translation of Hugues-le-Loup.
+gutenberg_issued: '2005-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, French -- Translations into English'
+- !lcsh 'Paranormal fiction, French -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: The man-wolf -- Myrtle -- Uncle Christian's inheritance -- The bear-baiting
+  -- The scapegoat -- A night in the woods -- The queen of the bees.
+title: The Man-Wolf and Other Tales
+url: http://www.gutenberg.org/ebooks/15745
